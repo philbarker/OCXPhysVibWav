@@ -20,7 +20,7 @@ isBasedOn :
   '@type': Course
   url : https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/
   creator : Yen-Jie Lee
-  licence : https://creativecommons.org/licenses/by-nc-sa/4.0/
+  license : https://creativecommons.org/licenses/by-nc-sa/4.0/
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 publisher :
   '@id': http://people.pjjk.net/Phil#id
