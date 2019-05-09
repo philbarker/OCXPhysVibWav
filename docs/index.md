@@ -1,6 +1,8 @@
 ~~H~~
-Course Home.
-~~/H~~
+!!! note "about this site"
+    Testing [OCX](https://k12ocx.github.io/k12ocx-specs/) with [MIT OCW Physics III -- Vibrations and Waves](https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/).
+
+    [Source](https://github.com/philbarker/OCXPhysVibWav) on github. View output of embedded JSON-LD in [structured data testing tool](https://search.google.com/structured-data/testing-tool#url=https%3A%2F%2Fphilbarker.github.io%2FOCXPhysVibWav%2F)~~/H~~
 ~~S ocxCourseOverview~~
 ---
 '@id': '#Course'

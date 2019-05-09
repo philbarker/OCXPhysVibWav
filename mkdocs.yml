@@ -13,6 +13,7 @@ theme:
     primary: 'Brown'
     accent: 'Red'
 markdown_extensions:
+  - admonition
   - ocxsect
   - ocxmd:
       context: '"@context": ["http://schema.org",{"oer":"http://oerschema.org/"},{"ocx":"https://k12ocx.github.io/k12ocx-specs/"}]'
