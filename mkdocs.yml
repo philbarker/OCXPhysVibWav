@@ -1,0 +1,18 @@
+site_name: OCX test with MIT OCW Physics III -- Vibrations and Waves
+nav:
+  - Course Home : index.md
+  - Syllabus : syllabus.md
+  - Instructor Insights : instructorInsights.md
+  - 'Part I: Mechanical Vibrations and Waves' : ptI.md
+  - 'Part II: Electromagnetic Waves' : ptII.md
+  - 'Part III: Optics' : ptIII.md
+  - Final Exam : finalExam.md
+theme:
+  name: 'material'
+  palette:
+    primary: 'Brown'
+    accent: 'Red'
+markdown_extensions:
+  - ocxsect
+  - ocxmd:
+      context: '"@context": ["http://schema.org",{"oer":"http://oerschema.org/"},{"ocx":"https://k12ocx.github.io/k12ocx-specs/"}]'
