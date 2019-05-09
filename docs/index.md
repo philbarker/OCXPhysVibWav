@@ -17,6 +17,7 @@ educationalAlignment :
   alignmentType: educationalLevel
   targetName: undergraduate
 isBasedOn :
+  '@type': Course
   url : https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/
   creator : Yen-Jie Lee
   licence : https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -27,7 +28,7 @@ publisher :
   name: Phil Barker
 audience  :
   '@type': EducationalAudience
-  audienceRole: student
+  educationalRole: student
   description : Undergraduate student
 hasPart :
   - {'@id': '#ocxCourseOverview', name: Course Home}
