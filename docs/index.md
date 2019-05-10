@@ -40,12 +40,12 @@ audience  :
   description : Undergraduate student
 hasPart :
   - {'@id': '#ocxCourseOverview', name: Course Home}
-  - {'@id': '/syllabus/#Syllabus',  name: Syllabus}
-  - {'@id': '/instructorInsights#A',  name: Instructor Insights }
-  - {'@id': '/ptI#Unit', name: 'Part I: Mechanical Vibrations and Waves' }
-  - {'@id': '/ptII#Unit', name: 'Part II: Electromagnetic Waves' }
-  - {'@id': '/ptIII#Unit', name: 'Part III: Optics' }
-  - {'@id': '/finalExam#Assessment', name: Final Exam }
+  - {'@id': 'syllabus#Syllabus',  name: Syllabus}
+  - {'@id': 'instructorInsights#A',  name: Instructor Insights }
+  - {'@id': 'ptI#Unit', name: 'Part I: Mechanical Vibrations and Waves' }
+  - {'@id': 'ptII#Unit', name: 'Part II: Electromagnetic Waves' }
+  - {'@id': 'ptIII#Unit', name: 'Part III: Optics' }
+  - {'@id': 'finalExam#Assessment', name: Final Exam }
 oer:Syllabus : {'@id':'/syllabus/#Syllabus',  name: Syllabus}
 oer:mainContent : {'@type': webSite, url:'https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/'}
 ---
