@@ -12,9 +12,9 @@ link = '<a href="'+href+'">'+text+'</a>'
 document.write(link)
 </script>
 ~~/H~~
-~~S syllabus~~
+~~S Syllabus~~
 ---
-'@id': '#A'
+'@id': '#Syllabus'
 '@type': [CreativeWork, 'oer:CourseSyllabus']
 audience  :
   '@type': EducationalAudience

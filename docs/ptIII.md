@@ -14,20 +14,20 @@ document.write(link)
 ~~/H~~
 ~~S A~~
 ---
-'@id': '#A'
+'@id': '#Unit'
 '@type':
   - Course
   - oer:Unit
 hasPart:
-  - { '@id': l17#A, '@type': [Course, oer:Lesson], name: 'Lecture 17: Polarization, Polarizer'}
-  - { '@id': e2#A, '@type': [Course, oer:Lesson], name: 'Exam 2'}
-  - { '@id': l18#A, '@type': [Course, oer:Lesson], name: 'Lecture 18: Wave Plates, Radiation'}
-  - { '@id': l19#A, '@type': [Course, oer:Lesson], name: 'Lecture 19: Waves in Medium'}
-  - { '@id': l20#A, '@type': [Course, oer:Lesson], name: 'Lecture 20: Interference, Soap Bubble'}
-  - { '@id': l21#A, '@type': [Course, oer:Lesson], name: 'Lecture 21: Phased Radar, Single Electron Interference'}
-  - { '@id': l22#A, '@type': [Course, oer:Lesson], name: 'Lecture 22: Diffraction, Resolution'}
-  - { '@id': l23#A, '@type': [Course, oer:Lesson], name: 'Lecture 23: Quantum Waves and Gravitational Waves'}
-  - { '@id': l24#A, '@type': [Course, oer:Assessment], name: 'Lecture 24: Review for Final Exam'}
+  - { '@id': l17#Lesson, '@type': [Course, oer:Lesson], name: 'Lecture 17: Polarization, Polarizer'}
+  - { '@id': e2#Lesson, '@type': [Course, oer:Lesson], name: 'Exam 2'}
+  - { '@id': l18#Lesson, '@type': [Course, oer:Lesson], name: 'Lecture 18: Wave Plates, Radiation'}
+  - { '@id': l19#Lesson, '@type': [Course, oer:Lesson], name: 'Lecture 19: Waves in Medium'}
+  - { '@id': l20#Lesson, '@type': [Course, oer:Lesson], name: 'Lecture 20: Interference, Soap Bubble'}
+  - { '@id': l21#Lesson, '@type': [Course, oer:Lesson], name: 'Lecture 21: Phased Radar, Single Electron Interference'}
+  - { '@id': l22#Lesson, '@type': [Course, oer:Lesson], name: 'Lecture 22: Diffraction, Resolution'}
+  - { '@id': l23#Lesson, '@type': [Course, oer:Lesson], name: 'Lecture 23: Quantum Waves and Gravitational Waves'}
+  - { '@id': l24#Lesson, '@type': [Course, oer:Assessment], name: 'Lecture 24: Review for Final Exam'}
 ---
 # Part I: Mechanical Vibrations and Waves
 - Lecture 17: Polarization, Polarizer

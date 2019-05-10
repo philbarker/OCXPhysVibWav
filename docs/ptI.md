@@ -12,25 +12,25 @@ link = '<a href="'+href+'">'+text+'</a>'
 document.write(link)
 </script>
 ~~/H~~
-~~S A~~
+~~S Unit~~
 ---
-'@id': '#A'
+'@id': '#Unit'
 '@type':
   - Course
   - oer:Unit
 hasPart:
-  - { '@id': l1#A, '@type': [Course, oer:Lesson], name: 'Lecture 1: Periodic Oscillations, Harmonic Oscillators'}
-  - { '@id': l2#A, '@type': [Course, oer:Lesson], name: 'Lecture 2: Damped Free Oscillators'}
-  - { '@id': l3#A, '@type': [Course, oer:Lesson], name: 'Lecture 3: Driven Oscillators, Transient Phenomena, Resonance'}
-  - { '@id': l4#A, '@type': [Course, oer:Lesson], name: 'Lecture 4: Coupled Oscillators, Normal Modes'}
-  - { '@id': l5#A, '@type': [Course, oer:Lesson], name: 'Lecture 5: Beat Phenomena'}
-  - { '@id': l6#A, '@type': [Course, oer:Lesson], name: 'Lecture 6: Driven Oscillators, Resonance'}
-  - { '@id': l7#A, '@type': [Course, oer:Lesson], name: 'Lecture 7: Symmetry, Infinite Number of Coupled Oscillators'}
-  - { '@id': l8#A, '@type': [Course, oer:Lesson], name: 'Lecture 8: Translation Symmetry'}
-  - { '@id': l9#A, '@type': [Course, oer:Lesson], name: 'Lecture 9: Wave Equation, Standing Waves, Fourier Series'}
-  - { '@id': e1#A, '@type': [Course, oer:Assessment], name: 'Exam 1'}
-  - { '@id': l10#A, '@type': [Course, oer:Lesson], name: 'Lecture 10: Traveling Waves'}
-  - { '@id': l11#A, '@type': [Course, oer:Lesson], name: 'Lecture 11: Sound Waves'}
+  - { '@id': l1#Lesson, '@type': [Course, oer:Lesson], name: 'Lecture 1: Periodic Oscillations, Harmonic Oscillators'}
+  - { '@id': l2#Lesson, '@type': [Course, oer:Lesson], name: 'Lecture 2: Damped Free Oscillators'}
+  - { '@id': l3#Lesson, '@type': [Course, oer:Lesson], name: 'Lecture 3: Driven Oscillators, Transient Phenomena, Resonance'}
+  - { '@id': l4#Lesson, '@type': [Course, oer:Lesson], name: 'Lecture 4: Coupled Oscillators, Normal Modes'}
+  - { '@id': l5#Lesson, '@type': [Course, oer:Lesson], name: 'Lecture 5: Beat Phenomena'}
+  - { '@id': l6#Lesson, '@type': [Course, oer:Lesson], name: 'Lecture 6: Driven Oscillators, Resonance'}
+  - { '@id': l7#Lesson, '@type': [Course, oer:Lesson], name: 'Lecture 7: Symmetry, Infinite Number of Coupled Oscillators'}
+  - { '@id': l8#Lesson, '@type': [Course, oer:Lesson], name: 'Lecture 8: Translation Symmetry'}
+  - { '@id': l9#Lesson, '@type': [Course, oer:Lesson], name: 'Lecture 9: Wave Equation, Standing Waves, Fourier Series'}
+  - { '@id': e1#Lesson, '@type': [Course, oer:Assessment], name: 'Exam 1'}
+  - { '@id': l10#Lesson, '@type': [Course, oer:Lesson], name: 'Lecture 10: Traveling Waves'}
+  - { '@id': l11#Lesson, '@type': [Course, oer:Lesson], name: 'Lecture 11: Sound Waves'}
 ---
 # Part I: Mechanical Vibrations and Waves
 - Lecture 1: Periodic Oscillations, Harmonic Oscillators

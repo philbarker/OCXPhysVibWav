@@ -14,16 +14,16 @@ document.write(link)
 ~~/H~~
 ~~S A~~
 ---
-'@id': '#A'
+'@id': '#Unit'
 '@type':
   - Course
   - oer:Unit
 hasPart:
-  - { '@id': l12#A, '@type': [Course, oer:Lesson], name: 'Lecture 12: Maxwell''s Equation, Electromagnetic Waves'}
-  - { '@id': l13#A, '@type': [Course, oer:Lesson], name: 'Lecture 13: Dispersive Medium, Phase Velocity, Group Velocity'}
-  - { '@id': l14#A, '@type': [Course, oer:Lesson], name: 'Lecture 14: Fourier Transform, AM Radio'}
-  - { '@id': l15#A, '@type': [Course, oer:Lesson], name: 'Lecture 15: Uncertainty Principle, 2D Waves'}
-  - { '@id': l16#A, '@type': [Course, oer:Lesson], name: 'Lecture 16: 2D and 3D Waves, Snell''s Law'}
+  - { '@id': l12#Lesson, '@type': [Course, oer:Lesson], name: 'Lecture 12: Maxwell''s Equation, Electromagnetic Waves'}
+  - { '@id': l13#Lesson, '@type': [Course, oer:Lesson], name: 'Lecture 13: Dispersive Medium, Phase Velocity, Group Velocity'}
+  - { '@id': l14#Lesson, '@type': [Course, oer:Lesson], name: 'Lecture 14: Fourier Transform, AM Radio'}
+  - { '@id': l15#Lesson, '@type': [Course, oer:Lesson], name: 'Lecture 15: Uncertainty Principle, 2D Waves'}
+  - { '@id': l16#Lesson, '@type': [Course, oer:Lesson], name: 'Lecture 16: 2D and 3D Waves, Snell''s Law'}
 ---
 # Part I: Mechanical Vibrations and Waves
 - Lecture 12: Maxwell's Equation, Electromagnetic Waves
