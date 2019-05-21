@@ -3,7 +3,9 @@ nav:
   - Course Home : index.md
   - Syllabus : syllabus.md
   - Instructor Insights : instructorInsights.md
-  - 'Part I: Mechanical Vibrations and Waves' : ptI.md
+  - 'Part I: Mechanical Vibrations and Waves' :
+    - 'Part I index' : ptI.md 
+    - 'Lecture 1: Periodic Oscillations, Harmonic Oscillations' : l1.md
   - 'Part II: Electromagnetic Waves' : ptII.md
   - 'Part III: Optics' : ptIII.md
   - Final Exam : finalExam.md
