@@ -18,7 +18,7 @@ document.write(link)
 '@type': Course
 name : 'Physics III: Vibrations and Waves'
 description : 'Vibrations and waves are everywhere. If you take any system and disturb it from a stable equilibrium, the resultant motion will be waves and vibrations. Think of a guitar string—pluck the string, and it vibrates. The sound waves generated make their way to our ears, and we hear the string’s sound. Our eyes see what’s happening because they receive the electromagnetic waves of the light reflected from the guitar string, so that we can recognize the beautiful sinusoidal waves on the string. In fact, without vibrations and waves, we could not recognize the universe around us at all!'
-courseCode: 8.03
+courseCode: '8.03'
 provider: MIT
 educationalAlignment :
   '@type': AlignmentObject
