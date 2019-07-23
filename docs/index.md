@@ -50,8 +50,10 @@ oer:Syllabus : {'@id':'/syllabus/#Syllabus',  name: Syllabus}
 oer:mainContent : {'@type': webSite, url:'https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/'}
 ---
 ---
-'@id': '#Course'
+'@id': '#ocxCourseOverview'
 '@type': 'WebPageElement'
+description: 'A description an overview of the MIT Physics III: Vibrations and Waves course.'
+about: '#Course'
 hasPart :
   - {'@id': '#ocxMeta'}
   - {'@id': '#ocxDesc'}
